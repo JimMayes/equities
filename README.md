@@ -4,6 +4,10 @@ Equities is a simple Ruby library that retrieves a stock quote from Yahoo Financ
 
 Retrieve quotes for a single stock or multiple stocks (passed as an array) in one request. Results are returned converted to OpenStructs for easy access to specific values.
 
+[![Build Status](https://travis-ci.org/JimMayes/equities.png?branch=master)](https://travis-ci.org/JimMayes/equities) 
+[![Code Climate](https://codeclimate.com/github/JimMayes/equities.png)](https://codeclimate.com/github/JimMayes/equities)
+[![Gem Version](https://badge.fury.io/rb/equities.png)](http://badge.fury.io/rb/equities)
+
 ## Installation
 
 Add this line to your application's Gemfile:
